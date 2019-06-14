@@ -1,0 +1,34 @@
+div{
+	background-image: inaa.png;
+	text-align: center;
+	border: 1px solid #fff;
+	padding: 10px;
+}
+
+.col-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+ }
+body{
+	background-color: #fff;
+} 
+
+.form-aja{
+	font-family: verdana;
+	box-sizing: 100px;
+	width: 100%;
+	padding: 5px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.kotak{
+	width: 350px;
+	background: #ccebff;
+	/*meletakkan form ke tengah*/
+	margin: 100px 800px;
+	padding:40px;
+	border: 1px solid #006666;
+	border-radius: 10px;
+}
